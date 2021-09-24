@@ -1,7 +1,7 @@
 # Cientifica
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width = "30" height= "30"/>
 </div>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
